@@ -55,13 +55,13 @@ export class Pair {
       tokenAmounts[0].token.chainId,
       Pair.getAddress(tokenAmounts[0].token, tokenAmounts[1].token),
       18,
-      'spLP',
-      'Spooky LP'
+        'UNI-V2',
+        'Uniswap V2'
     )
     this.tokenAmounts = tokenAmounts as [TokenAmount, TokenAmount]
   }
 
-  /**
+  /**0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270
    * Returns true if the token is either token0 or token1
    * @param token to check
    */

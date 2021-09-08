@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/olive-cash/olive-fantom-swap-sdk.git
+git clone https://github.com/olive-cash/olive-polygon-swap-sdk.git
 ```
 
 Move into the olive-fantom-sdk working directory
 
 ```sh
-cd olive-fantom-sdk/
+cd olive-polygon-sdk/
 ```
 
 Install dependencies

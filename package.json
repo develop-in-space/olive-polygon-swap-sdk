@@ -1,5 +1,5 @@
 {
-  "name": "@olive-dev/fantom-sdk",
+  "name": "@olive-dev/polygon-sdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of OliveSwap.",
@@ -8,10 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/olive-cash/olive-fantom-swap-sdk",
+  "repository": "https://github.com/olive-cash/olive-polygon-swap-sdk",
   "keywords": [
     "olivecash",
-    "fantom"
+    "polygon"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
